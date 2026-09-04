@@ -5,7 +5,6 @@ An interactive Tableau dashboard analyzing stroke risk based on patient health a
 ## Overview
 This project explores factors associated with stroke occurrence using an interactive Tableau dashboard, helping identify patterns across age, gender, and health indicators.
 
-![Dashboard Screenshot](IMG-20260805-WA0000)
 
 ## Key Metrics
 - **Total Patients:** 5,110
