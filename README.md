@@ -19,3 +19,7 @@ Tableau, Data Cleaning, Calculated Fields, Parameters
 Insights
 
 The dashboard highlights how age, hypertension, heart disease, and glucose levels correlate with higher stroke risk, supporting early identification of high-risk patient groups.
+Files
+stroke_prediction_dashboard.twbx — Tableau workbook
+dataset.csv — Source dataset
+screenshot.png — Dashboard preview
